@@ -38,3 +38,7 @@ x1,T,P,y1
 0.10,351.0,101325,0.25
 ...
 ```
+
+## Report
+
+The detailed project report is available [here](report.pdf).
