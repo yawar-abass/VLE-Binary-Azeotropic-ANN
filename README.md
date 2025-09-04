@@ -42,4 +42,4 @@ x1,T,P,y1
 ## Report
 
 The detailed project report can be downloaded here:
-<a href="report.pdf" download style=>Project Report (PDF)</a>
+<a href="report.pdf" download style="text-decoration: none; color: blue;">Project Report (PDF)</a>
