@@ -41,4 +41,5 @@ x1,T,P,y1
 
 ## Report
 
-The detailed project report is available [here](report.pdf).
+The detailed project report can be downloaded here:
+<a href="report.pdf" download style=>Project Report (PDF)</a>
